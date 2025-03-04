@@ -18,15 +18,13 @@
 ## 📥 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/GlobaLEx.git
+   git clone https://github.com/georgmichelle/Global_exchange.git
    cd GlobaLEx
 
-2. Install dependencies:
-
-pip install -r requirements.txt
 
 
-3. Run the application:
+
+2. Run the application:
 
 python main.py
 
