@@ -2,6 +2,7 @@
 
 # GlobaLExchange - The Ultimate Global Currency Converter 🌍💱  
 
+
 **GlobaLExchange** is a powerful and intuitive currency conversion application that provides real-time exchange rates for all global currencies. With a user-friendly interface and multi-language support, GlobaLEx ensures seamless and accurate conversions for travelers, business professionals, investors, and online shoppers.  
 
 ---
